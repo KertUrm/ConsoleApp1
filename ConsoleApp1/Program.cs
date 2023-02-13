@@ -8,7 +8,9 @@ namespace ConsoleApp1
         {
             string[] n = {"Anton Tammsaare","Lydia Koidula","August Gail","Betti Alver" };
             foreach (string s in n)
+            {
                 Console.WriteLine(s);
+            }
         }
     }
 }
